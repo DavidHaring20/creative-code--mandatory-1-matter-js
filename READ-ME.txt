@@ -1,0 +1,4 @@
+For my Mandatory project 1 in Creative code course I have chosen Matter.js as my "adventure".
+
+It is supposed to simulate throwing chain of some platform and watching how satisfying it 
+goes down.
